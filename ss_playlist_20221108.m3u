@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="1537", BNT 1
+https://cdn1.mobiletv.bg/T14/ATV/bnthd/bnthd_ATV987654321.m3u8
+#EXTINF:0 type="stream" channelId="3893", bTV
+http://clb.cdn.bg/btv/fls/btv.stream/playlist.m3u8?at=cf2935d333e41d454c795a224b6b18cc
+#EXTINF:0 type="stream" channelId="1543", bTV HD
+https://cdn1.mobiletv.bg/T14/ATV/btvhd/btvhd_ATV987654321.m3u8
+#EXTINF:0 type="stream" channelId="-1", Nova TV (live)
+http://clb.cdn.bg/ntv/fls/ntv_2.stream/playlist.m3u8?at=cf2935d333e41d454c795a224b6b18cc
+#EXTINF:0 type="stream" channelId="-1", Nova TV
+http://e100-nlds107.cdn.bg/nlds/novaplay2/novaent/as/live/novaent_hd_1600_pc.m3u8
+#EXTINF:0 type="stream" channelId="1541", bTV Cinema
+https://cdn1.mobiletv.bg/T8/btv_cinema/btv_c_794613_850k.m3u8
+#EXTINF:0 type="stream" channelId="1539", bTV Action
+https://cdn1.mobiletv.bg/T14/ATV/btv_action_hd/btv_action_hd_ATV987654321.m3u8
+#EXTINF:0 type="stream" channelId="1542", Btv Comedy
+https://cdn1.mobiletv.bg/T5/btvcomedy/btvcomedy_794613_850k.m3u8
+#EXTINF:0 type="stream" channelId="1552", Kinonova
+https://cdn1.mobiletv.bg/T3/kinonova/kinonova_794613_850k.m3u8
+#EXTINF:0 type="stream" channelId="1548", DIEMA
+https://cdn1.mobiletv.bg/T13/diema/diema_794613_850k.m3u8
+#EXTINF:0 type="stream" channelId="177", FOX
+https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8
+#EXTINF:0 type="stream" channelId="178", Fox Life
+https://cdn1.mobiletv.bg/T3/foxlife/foxlife_794613_850k.m3u8
+#EXTINF:0 type="stream" channelId="1572", FOX CRIME
+https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
+#EXTINF:0 type="stream" channelId="1573", AXN
+https://cdn1.mobiletv.bg/T13/axn/axn_794613_850k.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bulgaria On Air B
+http://lb.blb.cdn.bg:2006/fls/bonair.stream/playlist.m3u8?sd=10&rebase=ON
+#EXTINF:0 type="stream" channelId="-1", BG DNES
+http://80.72.95.40:8088
+#EXTINF:0 type="stream" channelId="1537", БНТ 1
+https://clb.cdn.bg/bnt1/fls/bnt1HD_abr.stream/playlist.m3u8?at=cf2935d333e41d454c795a224b6b18cc
+#EXTINF:0 type="stream" channelId="3903", БНТ 3
+http://clb.cdn.bg/bnt1/fls/bntHD_abr.stream/playlist.m3u8?at=cf2935d333e41d454c795a224b6b18cc
+#EXTINF:0 type="stream" channelId="3904", БНТ 4
+http://clb.cdn.bg/bnt1/fls/bntW.stream/playlist.m3u8?at=cf2935d333e41d454c795a224b6b18cc
+#EXTINF:0 type="stream" channelId="3902", БНТ 2
+http://clb.cdn.bg/bnt1/fls/bnt2.stream/playlist.m3u8?at=cf2935d333e41d454c795a224b6b18cc
+#EXTINF:0 type="stream" channelId="-1", Bloomberg Bulgaria
+https://lb-hls.cdn.bg/2091/fls/bloomberg.stream/playlist.m3u8?at=cf2935d333e41d454c795a224b6b18cc
+#EXTINF:0 type="stream" channelId="1655", Евроком
+https://eurocom.bg/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", VTK
+http://hls.cdn.bg:2007/fls/vtv/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", AutoMotorSport
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8?sd=10&rebase=ON
+#EXTINF:0 type="stream" channelId="-1" tvg-country="bg", Planeta HD BG
+http://84.43.207.130/planetahd/planetahd.m3u8?sd=10&rebase=ON
+#EXTINF:0 type="stream" channelId="-1", Sky Folk TV MUSIC
+http://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:0 type="stream" channelId="-1", Magic TV GR
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1409", CITY TV
+https://tv.city.bg/play/tshls/citytv/3.m3u8
+#EXTINF:0 type="stream" channelId="-1", Magic MusicTv (live)
+https://bss.neterra.tv/magictv/magictv_live.stream/.m3u8?sd=10&rebase=ON
+#EXTINF:0 type="stream" channelId="2778", The Voice (live)
+https://bss.neterra.tv/rtplive/thevoice_live.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", RT  EN
+https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8?rebase=ON
+#EXTINF:0 type="stream" channelId="-1", Russia Today Doc EN
+https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", RT Documentary RU
+https://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:0 type="stream" channelId="-1", TeleSUR English
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="139", France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:0 type="stream" channelId="3648", Press TV
+https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8?hd=10&rebase=ON
+#EXTINF:0 type="stream" channelId="-1", Red Bull TV BG
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0 type="stream" channelId="2", Россия 1
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:0 type="stream" channelId="10", Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
+#EXTINF:0 type="stream" channelId="5", Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="264", РТР Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="153", Москва 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="53", Моя Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="138", МИР ТВ
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Звезда ТВ
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4640", Настоящее время
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", Unknown Planet
+http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
+#EXTINF:0 type="stream" channelId="352", Deutsche Welle (DE)
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8?sd=10&rebase=ON
+#EXTINF:0 type="stream" channelId="-1", DW TV Deutsch+
+https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-p.m3u8?sd=10&rebase=ON
+#EXTINF:0 type="stream" channelId="352", Deutsche Welle (DE2)
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8?sd=10&rebase=ON
+#EXTINF:0 type="stream" channelId="352", Deutsche Welle (Eng)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="-1", Tagesschau24 A
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8?sd=10&rebase=ON
+#EXTINF:0 type="stream" channelId="-1", Tagesschau24 B
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8?sd=10&rebase=ON
+#EXTINF:0 type="stream" channelId="94", Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8?hd=10&rebase=ON
+#EXTINF:0 type="stream" channelId="-1", BR FERNSEHEN
+https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
+#EXTINF:0 type="stream" channelId="3297", HR HD
+http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="-1", WDR A
+http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8?sd=10&rebase=ON
+#EXTINF:0 type="stream" channelId="-1", WDR b
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8?hd=10&rebase=ON
+#EXTINF:0 type="stream" channelId="-1", Deutscher Bundestag 1
+https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
+#EXTINF:0 type="stream" channelId="3646", JASMIN TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?sd=10&rebase=ON
+#EXTINF:0 type="stream" channelId="-1", EbS
+https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8
+#EXTINF:0 type="stream" channelId="-1", EbS+ LIVE
+https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rossia 1 gov
+http://80.237.51.37:8101
+#EXTINF:0 type="stream" channelId="-1", Rossia 1 A
+http://80.237.51.37:8102
+#EXTINF:0 type="stream" channelId="-1", Rossia 24 A
+http://80.237.51.37:8107
+#EXTINF:0 type="stream" channelId="-1", RU NTV 
+http://80.237.51.37:8104
+#EXTINF:0 type="stream" channelId="-1", RU Ren tv
+http://80.237.51.37:8111
